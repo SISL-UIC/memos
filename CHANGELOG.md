@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.30.1](https://github.com/usememos/memos/compare/v0.30.0...v0.30.1) (2026-07-30)
+
+
+### Bug Fixes
+
+* **attachments:** link media to source memos ([c4221c6](https://github.com/usememos/memos/commit/c4221c6dfe51902d0c5f482802e670fda1b72751))
+* **editor:** restore Windows emoji input ([b4fefa9](https://github.com/usememos/memos/commit/b4fefa94d72cd381ccdd1dcb359ade0371203cce))
+* **ui:** keep select menus above parent popovers ([9328413](https://github.com/usememos/memos/commit/93284137970d2ac1bda29f9a8feb6da9c69e3db8))
+
+
+### Performance Improvements
+
+* **sse:** reduce redundant connections and fanout overhead ([dd18002](https://github.com/usememos/memos/commit/dd18002b12b8632d11b57fa3d33de244bba91476))
+
 ## [0.30.0](https://github.com/usememos/memos/compare/v0.29.1...v0.30.0) (2026-07-26)
 
 
